@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "platform": "win32",
+  "architecture": "x64",
+  "release": "https://github.com/minghinmatthewlam/pi-gui/releases/tag/v1.0.1",
+  "installerSha256": "e99b2fb2c340a71628912b5dd596323e7f4bd1bf916220b6cd4d5d7afeb3f11d",
+  "sourceSha256": "345d96b980d56482473a3a66672976f9cb8c97fa52d8a0c8f817a6b19dad992b",
+  "localizedSha256": "b3488a9f61ba4db50565793c1ae45bba9693d2a996c7a635b7dba035f4b41512",
+  "rendererPath": "out/renderer/assets/index-DfNH1Ymo.js",
+  "rendererSha256": "84dd8e9645867e184e8787246377de50321a7730a4e8a5fb6ff19d41b9ca7d1c",
+  "htmlPath": "out/renderer/index.html"
+}

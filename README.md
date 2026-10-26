@@ -86,6 +86,10 @@ the review tab, your worktrees, and tabs from desktop extensions. Each task keep
 
 pi-gui runs on macOS (Apple Silicon), Linux (x64) and Windows (x64).
 
+An optional [Simplified Chinese localization package](scripts/localization/README.md)
+is available for the Windows x64 1.0.1 release. It provides version-checked application
+and restoration commands; it is not an in-app language selector.
+
 Download the latest `.dmg` (macOS), `.AppImage` or `.deb` (Linux), or `.exe` (Windows) from the
 [Releases page](https://github.com/minghinmatthewlam/pi-gui/releases).
 

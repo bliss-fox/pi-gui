@@ -1,0 +1,33 @@
+{
+  "name": "pi-gui-zh-cn-localization",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Version-pinned Simplified Chinese localization and recovery tool for pi-gui",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "bin": {
+    "pi-gui-zh-cn": "src/cli.mjs"
+  },
+  "files": [
+    "src/",
+    "locales/",
+    "profiles/",
+    "Apply-Chinese.cmd",
+    "Restore-English.cmd",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "acorn": "8.15.0"
+  },
+  "bundledDependencies": [
+    "acorn"
+  ]
+}
